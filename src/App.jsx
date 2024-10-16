@@ -6,7 +6,7 @@ function App() {
       <header className="App-header">
         <img src="Octocat.png" className="App-logo" alt="logo" />
         <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
+          Ogie Entrecoso <span className="heart">♥️</span> React
         </p>
         <p className="small">
           Edit <code>src/App.jsx</code> and save to reload.
@@ -14,11 +14,11 @@ function App() {
         <p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://www.facebook.com/gienesis1996/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Hello World!
           </a>
         </p>
       </header>
